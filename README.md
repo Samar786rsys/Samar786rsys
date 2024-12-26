@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Samar786rsys
-- 🌱 I’m currently learning DSA in Java
-- 📫 How to reach me- samarsinghrsy@gmail.com
+- 🌱 I’m currently a student trynna figure out how things work and learning along the way
 
 <!---
 Samar786rsys/Samar786rsys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
